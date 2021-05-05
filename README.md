@@ -1,3 +1,3 @@
 # shiva-code
 this is a coding repo
-this is main branch
+this is master branch
