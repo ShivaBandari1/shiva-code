@@ -1,1 +1,2 @@
-# shiva-codessss
+# shiva-code
+this is a coding repo
